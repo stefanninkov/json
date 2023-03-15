@@ -1,0 +1,42 @@
+[
+    {
+        "company": "Lityum Tasarım Yazılım",
+        "name": "PHP JR CODER - PeopleBox",
+        "url": "https:\/\/lityum.peoplebox.biz\/portal\/open-positions\/1?lang=tr",
+        "image": "https:\/\/lityum.peoplebox.biz\/file\/view\/asset\/project-1.jpg",
+        "workType": "Full time",
+        "education": "Vocational",
+        "experience": 1,
+        "travel": ""
+    },
+    {
+        "company": "NBS",
+        "name": "11 İL KARİYER DESTEK PROJESİ",
+        "url": "https:\/\/nbs.peoplebox.biz\/web\/apply\/3858",
+        "image": "",
+        "workType": "",
+        "education": "",
+        "experience": "",
+        "travel": ""
+    },
+    {
+        "company": "NBS",
+        "name": "11 İL KARİYER DESTEK PROJESİ (IT POZİSYONLARI)",
+        "url": "https:\/\/nbs.peoplebox.biz\/web\/apply\/3888",
+        "image": "",
+        "workType": "",
+        "education": "",
+        "experience": "",
+        "travel": ""
+    },
+    {
+        "company": "Penti",
+        "name": "Deprem Seferberliği-Genel Başvuru",
+        "url": "https:\/\/penti.peoplebox.biz\/web\/apply\/1638",
+        "image": "https:\/\/penti.peoplebox.biz\/file\/view\/asset\/project-1638.png",
+        "workType": "",
+        "education": "",
+        "experience": "",
+        "travel": ""
+    }
+]
